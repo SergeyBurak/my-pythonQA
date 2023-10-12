@@ -9,4 +9,5 @@ venv1.bak/
 .idea/
 
 # Tests
-.pytest_cache/
+#.pytest_cache/
+/venv1/
