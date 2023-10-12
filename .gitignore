@@ -2,11 +2,10 @@
 __pycache__/
 
 # Environments
-/venv1/
-/venv1.bak/
+
 
 # IDE
-/.idea/
+
 
 # Tests
 #.pytest_cache/
