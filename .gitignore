@@ -6,7 +6,7 @@ __pycache__/
 
 
 # IDE
-/.idea
+/.idea/
 
 # Tests
 #.pytest_cache/
